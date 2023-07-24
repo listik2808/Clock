@@ -533,6 +533,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2317054076482240416, guid: 07d383887bc8fe948843a2c20c4ef82d, type: 3}
+      propertyPath: CurentTime
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2317054076482240416, guid: 07d383887bc8fe948843a2c20c4ef82d, type: 3}
+      propertyPath: _timeCheck
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 2317054076482240419, guid: 07d383887bc8fe948843a2c20c4ef82d, type: 3}
       propertyPath: m_Name
       value: watch
